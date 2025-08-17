@@ -1,0 +1,28 @@
+{
+    "name": "aryokesuma/breezstrap",
+    "description": "A Laravel package to use Bootstrap scaffolding with Breeze.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aryo Kesuma",
+            "email": "aryo.kesuma07@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AryoKesuma\\Breezstrap\\": "src/"
+        }
+    },
+    "require": {
+        "laravel/breeze": "^2.1",
+        "laravel/framework": "^11.0|^12.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AryoKesuma\\Breezstrap\\BreezstrapServiceProvider"
+            ]
+        }
+    }
+}
