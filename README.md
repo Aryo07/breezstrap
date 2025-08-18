@@ -25,6 +25,10 @@ Bootstrap is not supported by default in authentication starter kits since Larav
 1. Require the package via Composer:
 
 ```
+composer require aryokesuma/breezstrap
+```
+* Atau
+```
 composer require aryokesuma/breezstrap --dev
 ```
 
