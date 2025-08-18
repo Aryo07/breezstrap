@@ -1,5 +1,4 @@
 # Laravel Breezstrap (Breeze Bootstrap)
-#
 [![Latest Stable Version](http://poser.pugx.org/aryokesuma/breezstrap/v)](https://packagist.org/packages/aryokesuma/breezstrap) 
 [![Total Downloads](http://poser.pugx.org/aryokesuma/breezstrap/downloads)](https://packagist.org/packages/aryokesuma/breezstrap) 
 [![License](http://poser.pugx.org/aryokesuma/breezstrap/license)](https://packagist.org/packages/aryokesuma/breezstrap)
