@@ -1,8 +1,15 @@
-# Laravel Breezstrap (Breeze Bootstrap)
+<div align="center">
+
+[![Latest Stable Version](http://poser.pugx.org/aryokesuma/breezstrap/v)](https://packagist.org/packages/aryokesuma/breezstrap)
+[![Total Downloads](http://poser.pugx.org/aryokesuma/breezstrap/downloads)](https://packagist.org/packages/aryokesuma/breezstrap)
+[![License](http://poser.pugx.org/aryokesuma/breezstrap/license)](https://packagist.org/packages/aryokesuma/breezstrap)
+
+</div>
+
+# Laravel Breezstrap (Breeze Bootstrap) 
 
 A Laravel package to use Bootstrap scaffolding with Breeze.
 
-[![Latest Stable Version](http://poser.pugx.org/aryokesuma/breezstrap/v)](https://packagist.org/packages/aryokesuma/breezstrap) [![Total Downloads](http://poser.pugx.org/aryokesuma/breezstrap/downloads)](https://packagist.org/packages/aryokesuma/breezstrap) [![License](http://poser.pugx.org/aryokesuma/breezstrap/license)](https://packagist.org/packages/aryokesuma/breezstrap)
 
 ## Introduction
 
