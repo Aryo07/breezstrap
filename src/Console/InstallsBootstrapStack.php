@@ -19,9 +19,9 @@ trait InstallsBootstrapStack
         // NPM Packages...
         $this->updateNodePackages(function ($packages) {
             return [
-                'bootstrap' => '^5.3.7',
+                'bootstrap' => '^5.3.8',
                 '@popperjs/core' => '^2.11.8',
-                'sass' => '^1.90.0',
+                'sass' => '^1.77.6',
             ] + $packages;
         });
 
